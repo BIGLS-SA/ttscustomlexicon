@@ -28,14 +28,14 @@
     </lexeme>
       <lexeme>
         <grapheme>manage Call</grapheme>
-        <alias>manager.<break time="50ms"/>Call</alias>
+        <alias>manager. Call</alias>
     </lexeme>
       <lexeme>
         <grapheme>manageCall</grapheme>
-        <alias>manager.<break time="50ms"/>Call</alias>
+        <alias>manager. Call</alias>
     </lexeme>
       <lexeme>
         <grapheme>manage. Call</grapheme>
-        <alias>manager.<break time="50ms"/>Call</alias>
+        <alias>manager. Call</alias>
     </lexeme>
 </lexicon>
