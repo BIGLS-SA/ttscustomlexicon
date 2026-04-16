@@ -18,4 +18,8 @@
         <alias>test emoji</alias>
     </lexeme>
 
+    <lexeme>
+        <grapheme>Le</grapheme>
+        <phoneme>bɛˈni</phoneme>
+    </lexeme>
 </lexicon>
