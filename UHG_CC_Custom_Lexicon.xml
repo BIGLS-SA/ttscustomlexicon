@@ -18,5 +18,8 @@
         <alias>test emoji</alias>
     </lexeme>
 
-<phoneme alphabet='ipa' ph="ˈhɑːhɑː">Le</phoneme>
+      <lexeme>
+    <grapheme>Le</grapheme>
+    <phoneme>ˈhɑːhɑː</phoneme>
+      </lexeme>
 </lexicon>
