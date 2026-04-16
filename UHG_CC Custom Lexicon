@@ -17,4 +17,6 @@
         <grapheme>😀</grapheme>
         <alias>test emoji</alias>
     </lexeme>
+
+<phoneme alphabet='x-sampa' ph='he."loaaau'>hello</phoneme>
 </lexicon>
