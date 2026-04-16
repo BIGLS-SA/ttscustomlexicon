@@ -22,4 +22,20 @@
         <grapheme>Le</grapheme>
         <phoneme>bɛˈni</phoneme>
     </lexeme>
+      <lexeme>
+        <grapheme>his/her</grapheme>
+        <alias>his or her</alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>manage Call</grapheme>
+        <alias>manager. Call</alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>manageCall</grapheme>
+        <alias>manager. Call</alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>manage. Call</grapheme>
+        <alias>manager. Call</alias>
+    </lexeme>
 </lexicon>
